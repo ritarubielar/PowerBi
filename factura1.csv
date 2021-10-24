@@ -1,0 +1,131 @@
+﻿IdFactura;CodProducto;Descripcion;Cantidad;FechaFactura;HoraFactura;PrecioUnitario;IdCliente;Localidad
+583;016;Bistec de ternera;8;23/10/2021;8:00:00 a. m.;15.000;1;Timiza
+583;018;Buey semi graso;4;23/10/2021;8:45:00 a. m.;15.000;1;Timiza
+583;020;Cabrito;20;23/10/2021;8:50:00 a. m.;14.000;2;Timiza
+584;023;Cerdo carne magra;10;23/10/2021;8:55:00 a. m.;15.000;2;Timiza
+584;022;Cerdo carne grasa;12;23/10/2021;9:10:00 a. m.;15.000;2;Timiza
+585;024;Ciervo;40;23/10/2021;9:20:00 a. m.;14.000;2;Timiza
+586;025;Codorniz;100;23/10/2021;9:35:00 a. m.;16.000;5;Timiza
+587;026;Conejo;40;23/10/2021;9:50:00 a. m.;14.000;1;Timiza
+588;028;Cordero Lechal;25;23/10/2021;10:00:00 a. m.;15.000;2;Timiza
+589;027;Cordero (Pierna);32;23/10/2021;10:15:00 a. m.;15.000;2;Timiza
+590;030;Faisán;33;23/10/2021;10:35:00 a. m.;20.000;5;Timiza
+591;032;Hígado de cerdo;10;23/10/2021;10:45:00 a. m.;8.000;1;Timiza
+592;033;Higado de vacuno;8;23/10/2021;11:00:00 a. m.;15.000;2;Timiza
+593;034;Jabalí;6;23/10/2021;11:10:00 a. m.;15.000;2;Timiza
+594;035;Lacón;12;23/10/2021;11:20:00 a. m.; -   ;2;Molinos
+595;038;Liebre;40;23/10/2021;11:25:00 a. m.;14.000;2;Molinos
+596;043;Pato;5;23/10/2021;11:45:00 a. m.;15.000;2;Molinos
+597;045;Pavo pechuga;10;23/10/2021;12:05:00 a. m.;15.000;2;Molinos
+598;044;Pavo muslo;45;23/10/2021;12:15:00 a. m.;15.000;2;Molinos
+599;046;Perdiz;5;23/10/2021;12:20:00 a. m.;15.000;2;Molinos
+600;048;Pollo muslo;20;23/10/2021;12:35:00 a. m.;15.000;1;Molinos
+601;049;Pollo pechuga;8;23/10/2021;12:45:00 a. m.;15.000;3;Molinos
+602;010;Almeja;4;23/10/2021;1:00:00 p. m.;18.000;5;Molinos
+603;011;Anguila;20;22/10/2021;8:00:00 a. m.;18.000;5;Molinos
+604;012;Arenque;10;22/10/2021;8:45:00 a. m.;18.000;5;Molinos
+605;014;Atún fresco;12;22/10/2021;8:50:00 a. m.;18.000;5;Molinos
+606;015;Bacalao;40;22/10/2021;8:55:00 a. m.;18.000;1;Molinos
+607;017;Boquerón;100;22/10/2021;9:10:00 a. m.;18.000;2;Molinos
+609;021;Calamar;12;22/10/2021;9:35:00 a. m.;20.000;5;Molinos
+610;029;Dorada;40;22/10/2021;9:50:00 a. m.;20.000;5;Molinos
+611;031;Gallina;5;22/10/2021;10:00:00 a. m.;20.000;1;Molinos
+612;031;Gamba;10;22/10/2021;10:15:00 a. m.;14.000;1;Molinos
+613;036;Langosta;45;22/10/2021;10:35:00 a. m.;14.000;1;Molinos
+614;037;Lenguado;5;22/10/2021;10:45:00 a. m.;20.000;1;Cristales
+615;039;Lubina;20;22/10/2021;11:00:00 a. m.;20.000;1;Cristales
+616;040;Lucio;10;22/10/2021;11:10:00 a. m.;20.000;1;Cristales
+617;041;Mejillones;15;22/10/2021;11:20:00 a. m.;15.000;5;Cristales
+618;042;Merluza;8;22/10/2021;11:25:00 a. m.;15.000;5;Cristales
+600;042;Mero;4;22/10/2021;11:45:00 a. m.;15.000;5;Cristales
+601;047;Pez espada;6;22/10/2021;12:05:00 a. m.;15.000;5;Cristales
+602;050;Pulpo;12;22/10/2021;12:15:00 a. m.;15.000;5;Cristales
+603;051;Rodaballo;7;22/10/2021;12:20:00 a. m.;15.000;5;Cristales
+604;052;Salmón;15;22/10/2021;12:35:00 a. m.;15.000;5;Cristales
+605;053;Salmonete;10;22/10/2021;12:45:00 a. m.;15.000;5;Cristales
+606;054;Sardina;4;22/10/2021;1:00:00 p. m.;15.000;5;Cristales
+607;055;Sepia;3;22/10/2021;1:15:00 p. m.;12.000;5;Cristales
+608;056;Trucha;4;22/10/2021;1:25:00 p. m.; -   ;5;Cristales
+609;016;Bistec de ternera;12;22/10/2021;1:35:00 p. m.;15.000;1;Cristales
+610;018;Buey semi graso;8;22/10/2021;1:50:00 p. m.;15.000;3;Cristales
+611;020;Cabrito;13;22/10/2021;2:00:00 p. m.;14.000;3;Cristales
+612;023;Cerdo carne magra;12;21/10/2021;8:00:00 a. m.;15.000;3;Cristales
+613;022;Cerdo carne grasa;5;21/10/2021;8:45:00 a. m.;15.000;3;Cristales
+614;024;Ciervo;8;21/10/2021;8:50:00 a. m.;14.000;3;Cristales
+615;025;Codorniz;6;21/10/2021;8:55:00 a. m.;20.000;2;Cristales
+616;026;Conejo;12;21/10/2021;9:10:00 a. m.;14.000;3;Cristales
+617;028;Cordero Lechal;7;21/10/2021;9:20:00 a. m.;15.000;3;Cristales
+618;027;Cordero (Pierna);15;21/10/2021;9:35:00 a. m.;15.000;3;Cristales
+619;030;Faisán;10;21/10/2021;9:50:00 a. m.;20.000;1;Cristales
+620;032;Hígado de cerdo;4;21/10/2021;10:00:00 a. m.;8.000;2;Cristales
+621;033;Higado de vacuno;6;21/10/2021;10:15:00 a. m.;15.000;3;Cristales
+622;034;Jabalí;5;21/10/2021;10:35:00 a. m.;15.000;3;Venecia
+623;035;Lacón;12;21/10/2021;10:45:00 a. m.;8.000;5;Venecia
+624;038;Liebre;32;21/10/2021;11:00:00 a. m.;14.000;5;Venecia
+625;043;Pato;10;21/10/2021;11:10:00 a. m.;8.000;3;Venecia
+626;045;Pavo pechuga;7;21/10/2021;11:20:00 a. m.;14.000;3;Venecia
+627;044;Pavo muslo;20;21/10/2021;11:25:00 a. m.;8.000;3;Venecia
+628;046;Perdiz;13;21/10/2021;11:45:00 a. m.;8.000;3;Venecia
+629;048;Pollo muslo;12;21/10/2021;12:05:00 a. m.;8.000;3;Venecia
+630;049;Pollo pechuga;5;21/10/2021;12:15:00 a. m.;8.000;3;Venecia
+631;010;Almeja;8;21/10/2021;12:20:00 a. m.;18.000;2;Venecia
+632;011;Anguila;6;21/10/2021;12:35:00 a. m.;18.000;2;Venecia
+633;012;Arenque;12;21/10/2021;12:45:00 a. m.;18.000;2;Venecia
+634;014;Atún fresco;7;21/10/2021;1:00:00 p. m.;18.000;3;Venecia
+635;015;Bacalao;10;21/10/2021;1:15:00 p. m.;18.000;3;Venecia
+636;017;Boquerón;11;21/10/2021;1:25:00 p. m.;18.000;3;Fragua
+637;019;Caballo;16;21/10/2021;1:35:00 p. m.;17.000;2;Fragua
+638;021;Calamar;45;21/10/2021;1:50:00 p. m.;20.000;1;Fragua
+639;029;Dorada;11;21/10/2021;2:00:00 p. m.;20.000;1;Fragua
+640;031;Gallina;9;20/10/2021;8:00:00 a. m.;20.000;1;Fragua
+641;031;Gamba;7;20/10/2021;8:45:00 a. m.;14.000;3;Fragua
+642;036;Langosta;6;20/10/2021;8:50:00 a. m.;14.000;3;Fragua
+643;037;Lenguado;5;20/10/2021;8:55:00 a. m.;14.000;2;Fragua
+644;039;Lubina;12;20/10/2021;9:10:00 a. m.;14.000;2;Fragua
+645;040;Lucio;32;20/10/2021;9:20:00 a. m.;14.000;1;Teusaquillo
+646;041;Mejillones;10;20/10/2021;9:35:00 a. m.;14.000;1;Teusaquillo
+647;042;Merluza;5;20/10/2021;9:50:00 a. m.;14.000;1;Teusaquillo
+648;042;Mero;4;20/10/2021;10:00:00 a. m.;14.000;1;Teusaquillo
+649;047;Pez espada;3;20/10/2021;10:15:00 a. m.;14.000;1;Teusaquillo
+650;050;Pulpo;4;20/10/2021;10:35:00 a. m.;14.000;1;Teusaquillo
+651;051;Rodaballo;12;20/10/2021;10:45:00 a. m.;14.000;1;Teusaquillo
+652;052;Salmón;8;19/10/2021;11:00:00 a. m.;14.000;1;Teusaquillo
+653;053;Salmonete;13;19/10/2021;11:10:00 a. m.;14.000;1;Teusaquillo
+654;054;Sardina;12;19/10/2021;11:20:00 a. m.;14.000;1;Rosario
+655;055;Sepia;5;19/10/2021;11:25:00 a. m.;14.000;1;Rosario
+656;056;Trucha;8;19/10/2021;11:45:00 a. m.;14.000;1;Rosario
+657;016;Bistec de ternera;6;19/10/2021;12:05:00 a. m.;15.000;2;Rosario
+658;018;Buey semi graso;12;19/10/2021;12:15:00 a. m.;15.000;4;Rosario
+659;020;Cabrito;10;19/10/2021;12:20:00 a. m.;14.000;3;Rosario
+660;023;Cerdo carne magra;11;19/10/2021;12:35:00 a. m.;15.000;4;Rosario
+661;022;Cerdo carne grasa;8;19/10/2021;12:45:00 a. m.;15.000;4;Rosario
+662;024;Ciervo;4;19/10/2021;1:00:00 p. m.;14.000;5;Rosario
+663;025;Codorniz;12;19/10/2021;1:15:00 p. m.;20.000;3;Rosario
+664;026;Conejo;8;19/10/2021;1:25:00 p. m.;14.000;5;Rosario
+665;028;Cordero Lechal;13;19/10/2021;1:35:00 p. m.;15.000;4;Las Nieves
+666;027;Cordero (Pierna);12;19/10/2021;1:50:00 p. m.;15.000;4;Las Nieves
+667;030;Faisán;5;19/10/2021;2:00:00 p. m.;20.000;4;Las Nieves
+668;032;Hígado de cerdo;8;18/10/2021;8:00:00 a. m.;8.000;3;Las Nieves
+669;033;Higado de vacuno;6;18/10/2021;8:45:00 a. m.;15.000;4;Las Nieves
+670;034;Jabalí;12;18/10/2021;8:50:00 a. m.;15.000;1;Las Nieves
+671;035;Lacón;10;18/10/2021;8:55:00 a. m.;15.000;4;Las Nieves
+672;038;Liebre;11;18/10/2021;9:10:00 a. m.;14.000;5;Las Nieves
+673;043;Pato;8;18/10/2021;9:20:00 a. m.;15.000;4;El Vergel
+674;045;Pavo pechuga;12;18/10/2021;9:35:00 a. m.;14.000;4;El Vergel
+675;044;Pavo muslo;3;18/10/2021;9:50:00 a. m.;14.000;4;El Vergel
+676;046;Perdiz;8;18/10/2021;10:00:00 a. m.;14.000;4;El Vergel
+677;048;Pollo muslo;7;18/10/2021;10:15:00 a. m.;14.000;4;El Vergel
+678;049;Pollo pechuga;6;18/10/2021;10:35:00 a. m.;14.000;4;El Vergel
+679;010;Almeja;12;18/10/2021;10:45:00 a. m.;18.000;3;El Vergel
+680;011;Anguila;40;18/10/2021;11:00:00 a. m.;18.000;3;El Vergel
+681;012;Arenque;5;18/10/2021;11:10:00 a. m.;18.000;3;El Vergel
+682;014;Atún fresco;20;18/10/2021;11:20:00 a. m.;18.000;3;La Calendaria
+683;015;Bacalao;10;18/10/2021;11:25:00 a. m.;18.000;3;La Calendaria
+684;017;Boquerón;15;18/10/2021;11:45:00 a. m.;18.000;3;La Calendaria
+686;021;Calamar;4;17/10/2021;12:15:00 a. m.;20.000;4;La Calendaria
+687;029;Dorada;6;17/10/2021;12:20:00 a. m.;20.000;4;La Calendaria
+688;031;Gallina;12;17/10/2021;12:35:00 a. m.;20.000;4;La Calendaria
+689;031;Gamba;7;17/10/2021;12:45:00 a. m.;14.000;5;La Calendaria
+690;036;Langosta;15;17/10/2021;1:00:00 p. m.;14.000;5;La Calendaria
+691;037;Lenguado;10;17/10/2021;8:00:00 a. m.;15.000;5;La Calendaria
+692;039;Lubina;4;17/10/2021;8:45:00 a. m.;15.000;5;La Calendaria
